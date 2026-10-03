@@ -1,0 +1,6 @@
+{
+  "name": "UZ FLY - Aviasales.uz Clone",
+  "description": "Arzon aviachiptalar, poyezd va mehmonxonalarni onlayn bron qilish tizimi",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
